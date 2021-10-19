@@ -29,9 +29,9 @@ const Contact = () => {
 
     
      
-    <div class="input-group mb-3">
-  <button class="btn btn-outline-danger btn-danger text-white fw-bolder" type="button" id="button-addon1">Direct Line</button>
-  <div class="form-control text-center fw-bolder fs-5" aria-label="Example text with button addon" aria-describedby="button-addon1">01234567890</div>
+    <div className="input-group mb-3">
+  <button className="btn btn-outline-danger btn-danger text-white fw-bolder" type="button" id="button-addon1">Direct Line</button>
+  <div className="form-control text-center fw-bolder fs-5" aria-label="Example text with button addon" aria-describedby="button-addon1">01234567890</div>
 </div>
 
 <h5 className="text-white">Contact info</h5>

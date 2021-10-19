@@ -10,11 +10,11 @@ const Doctors = () => {
 
             <div className="doctors-container row my-5 gy-4">
             <div className="col-12 text-center">
-            <div class="card mb-3 w-75 mx-auto">
-            <img src={doctor1} class="card-img-top img-fluid mx-auto p-3" style={{height: '300px', width: '300px'}} alt="..."/>
-            <div class="card-body">
-              <h5 class="card-title">Brig. Gen. Prof. M. H. M. Delwar Hossain</h5>
-              <p class="card-text px-3">TMBBS, DA , MCPS, FCPS (Anesthesia)</p>
+            <div className="card mb-3 w-75 mx-auto">
+            <img src={doctor1} className="card-img-top img-fluid mx-auto p-3" style={{height: '300px', width: '300px'}} alt="..."/>
+            <div className="card-body">
+              <h5 className="card-title">Brig. Gen. Prof. M. H. M. Delwar Hossain</h5>
+              <p className="card-text px-3">TMBBS, DA , MCPS, FCPS (Anesthesia)</p>
               <p>Anesthesiologist & Pain Management Specialist</p>
               <h6>(Combined Military Hospital, Dhaka)</h6>
               <div className="btn btn-info fw-bold">Make an Appoinment</div>
@@ -22,11 +22,11 @@ const Doctors = () => {
           </div>
             </div>
             <div className="col-12 text-center">
-            <div class="card mb-3 w-75 mx-auto">
-            <img src={doctor2} class="card-img-top img-fluid mx-auto p-3" style={{height: '300px', width: '300px'}} alt="..."/>
-            <div class="card-body">
-              <h5 class="card-title">Dr. Hasina Akhter</h5>
-              <p class="card-text px-3">MBBS, FCPS (Anesthesia)</p>
+            <div className="card mb-3 w-75 mx-auto">
+            <img src={doctor2} className="card-img-top img-fluid mx-auto p-3" style={{height: '300px', width: '300px'}} alt="..."/>
+            <div className="card-body">
+              <h5 className="card-title">Dr. Hasina Akhter</h5>
+              <p className="card-text px-3">MBBS, FCPS (Anesthesia)</p>
               <p>Anesthesiologist</p>
               <h6>Evercare Hospital, Dhaka</h6>
               <div className="btn btn-info fw-bold">Make an Appoinment</div>
@@ -34,11 +34,11 @@ const Doctors = () => {
           </div>
             </div>
             <div className="col-12 text-center">
-            <div class="card mb-3 w-75 mx-auto">
-            <img src={doctor3} class="card-img-top img-fluid mx-auto p-3" style={{height: '300px', width: '300px'}} alt="..."/>
-          <div class="card-body">
-              <h5 class="card-title">Dr. Shamim Boksha</h5>
-              <p class="card-text px-3">MBBS, FCPS (Medicine), MD (Gastroenterology)</p>
+            <div className="card mb-3 w-75 mx-auto">
+            <img src={doctor3} className="card-img-top img-fluid mx-auto p-3" style={{height: '300px', width: '300px'}} alt="..."/>
+          <div className="card-body">
+              <h5 className="card-title">Dr. Shamim Boksha</h5>
+              <p className="card-text px-3">MBBS, FCPS (Medicine), MD (Gastroenterology)</p>
               <p>(Gastroenterology, Medicine & Liver Diseases Specialist)</p>
               <h6>National Hospital, Chittagong</h6>
               <div className="btn btn-info fw-bold">Make an Appoinment</div>
