@@ -1,0 +1,30 @@
+/* .form input {
+  padding: 10px 15px;
+} */
+
+.content {
+  line-height: 2rem;
+}
+
+.content h1 {
+  font-size: 48px;
+}
+
+.form input {
+  padding: 15px 13px;
+  border: 2px solid skyblue;
+  outline: none;
+}
+
+.form-container {
+  box-shadow: 5px 5px 50px rgb(242, 234, 234);
+}
+
+.form button {
+  border: none;
+  outline: none;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 24px;
+  border: 2px solid skyblue;
+}

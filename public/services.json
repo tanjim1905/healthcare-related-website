@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/9TmCXg5/Coronary-Artery-Disease.jpg",
+    "title": "Coronary Artery Disease",
+    "description": "Blockage in the coronary arteries is called coronary artery disease—a condition in which the heart muscles don't get enough blood and oxygen.",
+    "details": "Blockage in the coronary arteries is called coronary artery disease—a condition in which the heart muscles don't get enough blood and oxygen. The most serious effect of coronary artery disease is sudden death without warning. This usually happens in individuals who have had heart attacks or other heart damage."
+  },
+
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/qW9mL2r/silent-ischemia.jpg",
+    "title": "Silent Ischemia",
+    "description": "A form of coronary artery disease in which the blood flow to the heart muscle is reduced but produces very little pain or symptoms.",
+    "details": "A form of coronary artery disease in which the blood flow to the heart muscle is reduced but produces very little pain or symptoms. When discomfort is experienced, it is usually during physical exertion."
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/yVyFHhr/Angina.jpg",
+    "title": "Angina",
+    "description": "Angina is discomfort or pain that occurs when your heart is not getting enough oxygen and nutrients. Angina may be caused by a narrowing of the arteries or muscle spasms in the coronary arteries.",
+    "details": "Angina is discomfort or pain that occurs when your heart is not getting enough oxygen and nutrients. Angina may be caused by a narrowing of the arteries or muscle spasms in the coronary arteries. These spasms may be induced by cigarette smoke, cold temperatures, strong emotions, and other sources. It is important to note that angina isn't a heart attack and doesn't usually cause permanent heart damage, even though it causes pain."
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/7nZvy3T/Arrhythmia.jpg",
+    "title": "Arrhythmia",
+    "description": "Sometimes the heart’s electrical system does not function normally. It may race, become slow, irregular, skip beats or sometimes the heart’s electrical signal does not move in the proper sequence.",
+    "details": "Sometimes the heart’s electrical system does not function normally. It may race, become slow, irregular, skip beats or sometimes the heart’s electrical signal does not move in the proper sequence. This causes the heart to beat faster or slower than normal, or erratically. These abnormal rhythms are called arrhythmias. They can cause a variety of symptoms: dizziness, fainting, fatigue, shortness of breath and chest pain or rapid palpitations that may feel like flutters or pounding of the heart. If left untreated, arrhythmias can be life threatening."
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/gvMjjvw/Heart-Defects.jpg",
+    "title": "Heart Defects",
+    "description": "An obstruction is a heart defect that partly or completely blocks the flow of blood. Obstructions called stenosis can occur in the heart valves, arteries or veins.",
+    "details": "An obstruction is a heart defect that partly or completely blocks the flow of blood. Obstructions called stenosis can occur in the heart valves, arteries or veins. Aortic stenosis Bicuspid aortic valve Mitral valve prolapse Pulmonary stenosis Subaortic stenosis"
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/N742FbC/Peripheral-Arterial-Disease.jpg",
+    "title": "Peripheral Arterial Disease",
+    "description": "Like the heart, all tissues of the body need oxygen and other nutrients to survive and work. Fatty plaques or atherosclerosis can also affect arteries that supply oxygen-rich blood to other areas of the body.",
+    "details": "Like the heart, all tissues of the body need oxygen and other nutrients to survive and work. Fatty plaques or atherosclerosis can also affect arteries that supply oxygen-rich blood to other areas of the body. For example, peripheral arterial disease (PAD) occurs when the flow of oxygen-rich blood to the legs and feet is blocked or decreased. This blockage in the vessels deprives the feet and legs of oxygen and nutrients, and produces symptoms usually in the thigh, calf muscle and feet."
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/882mxwJ/Congenital-Heart-Disease.jpg",
+    "title": "Congenital Heart Disease",
+    "description": "Congenital heart disease happens when something goes wrong while the heart is forming in a baby that's still in the womb.",
+    "details": "Congenital heart disease happens when something goes wrong while the heart is forming in a baby that's still in the womb. The heart abnormality sometimes leads to problems right after birth, but other times there aren't any symptoms until you become an adult. Septal abnormalities are among the most common congenital heart problems. These are holes in the wall that separates the left and right sides of your heart. You can get a procedure to patch the hole."
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/b65wNyQ/Cardiomyopathy.jpg",
+    "title": "Cardiomyopathy",
+    "description": "Cardiomyopathy is a disease of your heart muscle, or myocardium. It gets stretched, thickened, or stiff. Your heart may get too weak to pump well.",
+    "details": "Cardiomyopathy is a disease of your heart muscle, or myocardium. It gets stretched, thickened, or stiff. Your heart may get too weak to pump well. There are many possible causes of the disease, including genetic heart conditions, reactions to certain drugs or toxins (such as alcohol), and infections from a virus. Sometimes, chemotherapy causes cardiomyopathy. Many times, doctors can't find the exact cause."
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co/yX58drL/Pericardial-Disease.jpg",
+    "title": "Pericardial Disease",
+    "description": "Any disease of the pericardium, the sac that surrounds your heart, is called a pericardial disease. One of the more common diseases is pericarditis or inflammation of the pericardium.",
+    "details": "Any disease of the pericardium, the sac that surrounds your heart, is called a pericardial disease. One of the more common diseases is pericarditis or inflammation of the pericardium. It's usually caused by an infection with a virus, inflammatory diseases such as lupus or rheumatoid arthritis, or injury to your pericardium. Pericarditis often follows open heart surgery."
+  },
+  {
+    "id": 10,
+    "img": "https://i.ibb.co/Wtk238y/Heart-Valve-Disease.jpg",
+    "title": "Heart Valve Disease",
+    "description": "Your heart has four valves that open and close to direct blood flow between your heart's four chambers, the lungs, and blood vessels.",
+    "details": "Your heart has four valves that open and close to direct blood flow between your heart's four chambers, the lungs, and blood vessels. An abnormality could make it hard for a valve to open and close the right way. When that happens, your blood flow could be blocked or blood can leak. Your valve may not open and close right."
+  },
+  {
+    "id": 11,
+    "img": "https://i.ibb.co/hKwS9Zr/Heart-Failure.jpg",
+    "title": "Heart Failure",
+    "description": "With heart failure, your heart doesn't pump blood as well as it should to meet your body's needs.",
+    "details": "With heart failure, your heart doesn't pump blood as well as it should to meet your body's needs. It is usually caused by coronary artery disease, but it can also happen because you have thyroid disease, high blood pressure, heart muscle disease (cardiomyopathy), or certain other conditions."
+  },
+  {
+    "id": 12,
+    "img": "https://i.ibb.co/sKXZzCT/Coronary-artery-disease.jpg",
+    "title": "Coronary disease",
+    "description": "The heart is the hardest working muscle in your body. The average heart beats 100,000 times a day, day and night.",
+    "details": "The heart is the hardest working muscle in your body. The average heart beats 100,000 times a day, day and night, to supply oxygen and nutrients throughout your body. Blood pumped by the heart also shuttles waste products such as carbon dioxide to the lungs so it can be eliminated from your body. Proper heart function is essential to support life."
+  }
+]
