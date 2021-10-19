@@ -22,7 +22,7 @@ const Home = () => {
             </Row>
                 <Row xs={1} md={2} lg={3} className="g-4 my-5">
                 {
-                    services.slice(0, 6).map((service) => <Service key={service.key} service={service}></Service>)
+                    services.slice(0, 6).map((service) => <Service key={service.id} service={service}></Service>)
                 }
                 </Row>
             </Container>

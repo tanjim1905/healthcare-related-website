@@ -7,7 +7,7 @@ initializeAuthentication();
 const useFirebase = () => {
     const [user, setUser] = useState([]);
     const [isLoading, setIsLoading] = useState(true)
-    const [error, setError] = useState('');
+    const [response, setResponse] = useState('');
 
     const auth = getAuth();
     const googleProvider = new GoogleAuthProvider();
@@ -18,8 +18,9 @@ const useFirebase = () => {
         .then((result) => {
             // console.log(result.user);
             setUser(result.user)
+            setResponse('Login Successfull');
         }).catch((error) => {
-            setError(error.message)
+            setResponse(error.message)
         }).finally(() => setIsLoading(false));
     }
 
@@ -28,8 +29,9 @@ const useFirebase = () => {
         createUserWithEmailAndPassword(auth, email, password)
         .then((result) => {
             setUser(result.user)
+            setResponse('Login Successfull');
         }).catch((error) => {
-            setError(error.message);
+            setResponse(error.message);
         }).finally(() => setIsLoading(false));
     }
 
@@ -37,8 +39,9 @@ const useFirebase = () => {
         signInWithEmailAndPassword(auth, email, password)
         .then((result) => {
             setUser(result.user);
+            setResponse('Login Successfull');
         }).catch((error) => {
-            setError(error.message);
+            setResponse(error.message);
         }).finally(() => setIsLoading(false));
     }
 
@@ -62,7 +65,7 @@ const useFirebase = () => {
     }
     return {
         user,
-        error,
+        response,
         isLoading,
         signInUsingGoogle,
         createUserWithEmailAndPassword,

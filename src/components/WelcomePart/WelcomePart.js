@@ -4,7 +4,7 @@ import './WelcomePart.css';
 const WelcomePart = () => {
     return (
         <>
-            <div className="container row my-5">
+            <div className="container row my-5 gy-5">
                 <div className="col-12 col-lg-6 content">
                 <h5>This is Dr Pro</h5>
                 <h1>Welcome to our Clinic</h1>
