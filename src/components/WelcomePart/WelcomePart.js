@@ -8,7 +8,8 @@ const WelcomePart = () => {
                 <div className="col-12 col-lg-6 content">
                 <h5>This is Dr Pro</h5>
                 <h1>Welcome to our Clinic</h1>
-                <p>Integer aliquet congue libero, eu gravida odio ultrices ut. Etiam ac erat ut enim maximus accumsan vel ac nisl. Duis feugiat bibendum orci, non elementum urna vestibulum in. Nulla facilisi. Nulla egestas vel lacus sed interdum. Sed mollis, orci elementum eleifend tempor, nunc libero porttitor tellus, vel pharetra metus dolor.</p>
+                <p>Welcome to our website. we preffered you good quality health service. We can provide you some good quality health tips and exclusive offer. Are you want to know more? please click see more and subscribe us for exclusive health tips.</p>
+                <div className="btn btn-info fw-bold">See more</div>
                 </div>
                 <div className="col-12 col-lg-6 form-container">
                     <h1 className="bg-warning text-center fw-bolder py-2">Make an Appoinment</h1>

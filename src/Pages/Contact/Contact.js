@@ -25,7 +25,7 @@ const Contact = () => {
     </div>
     <div className="col-12 col-lg-6">
     <h2>Get in touch with us</h2>
-    <p>Odio ultrices ut. Etiam ac erat ut enim maximus accumsan vel ac nisl. Duis feug iat bibendum orci, non elementum urna. Cras sit amet sapien aliquam.</p>
+    <p></p>
 
     
      

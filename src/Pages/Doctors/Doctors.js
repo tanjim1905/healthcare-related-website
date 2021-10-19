@@ -36,9 +36,11 @@ const Doctors = () => {
             <div className="col-12 text-center">
             <div class="card mb-3 w-75 mx-auto">
             <img src={doctor3} class="card-img-top img-fluid mx-auto p-3" style={{height: '300px', width: '300px'}} alt="..."/>
-            <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text px-3">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+          <div class="card-body">
+              <h5 class="card-title">Dr. Shamim Boksha</h5>
+              <p class="card-text px-3">MBBS, FCPS (Medicine), MD (Gastroenterology)</p>
+              <p>(Gastroenterology, Medicine & Liver Diseases Specialist)</p>
+              <h6>National Hospital, Chittagong</h6>
               <div className="btn btn-info fw-bold">Make an Appoinment</div>
             </div>
           </div>

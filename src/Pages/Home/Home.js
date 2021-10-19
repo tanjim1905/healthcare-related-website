@@ -15,9 +15,9 @@ const Home = () => {
             <Container>
             <Row>
                 <div className="col-12 col-md-10 col-lg-8 mx-auto">
-                    <h2 className="text-center">Our Courses</h2>
+                    <h2 className="text-center">Our Servises</h2>
 
-                    <p className="text-center">we know that not only innovative technologies determine the quality of the product. A very important aspect in the production process is the contribution of our employees.</p>
+                    <p className="text-center">we know that not only innovative technologies determine the quality of the service. A very important aspect in the production process is the contribution of our doctors.</p>
                 </div>
             </Row>
                 <Row xs={1} md={2} lg={3} className="g-4 my-5">
