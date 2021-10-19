@@ -4,7 +4,7 @@ import useServices from '../../Hooks/useServices';
 
 const Services = () => {
     const [services] = useServices();
-    console.log(services);
+    // console.log(services);
     return (
         <div className="container my-5 text-center">
             <h2 className="my-4 fw-bold">Our Services</h2>
